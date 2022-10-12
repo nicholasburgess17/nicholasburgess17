@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicholasburgess17
 - 👀 I’m interested in ... becoming a full stack developer
 - 🌱 I’m currently learning ... python and javascript
-- 💞️ I’m looking to collaborate on ... web development, and basic programming projects
+- 💞️ I’m looking to collaborate on ... web development projects
 - 📫 How to reach me ... nicholas.burgess13@gmail.com
 
 <!---
