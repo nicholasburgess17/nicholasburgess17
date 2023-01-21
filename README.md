@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicholasburgess17
 - 👀 I’m interested in ... becoming a full stack developer
-- 🌱 I’m currently learning ... python and javascript
+- 🌱 I’m currently learning ... web development at LightHouse Labs
 - 💞️ I’m looking to collaborate on ... web development projects
 - 📫 How to reach me ... nicholas.burgess13@gmail.com
 
