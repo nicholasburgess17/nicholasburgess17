@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/nicholasburgess17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholasburgess17" height="30" width="40" /></a>
 <a href="https://instagram.com/nicholas.burgess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicholas.burgess" height="30" width="40" /></a>
 <a href="https://medium.com/@nicholasburgess13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nicholasburgess13" height="30" width="40" /></a>
-<a href="https://discord.gg/5627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5627" height="30" width="40" /></a>
+<a href="https://discord.gg/Nick#5627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nick#5627" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
