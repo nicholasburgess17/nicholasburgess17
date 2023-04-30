@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicholas</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicholasburgess17&label=Profile%20views&color=0e75b6&style=flat" alt="nicholasburgess17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicholasburgess17" alt="nicholasburgess17" /></a> </p>
-
 - 🔭 I’m currently working on **Plants**
 
 - 🌱 I’m currently learning **Typescript, Python**
@@ -19,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nicholasburgess17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholasburgess17" height="30" width="40" /></a>
 <a href="https://instagram.com/nicholas.burgess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicholas.burgess" height="30" width="40" /></a>
-<a href="https://medium.com/@nicholasburgess17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nicholasburgess17" height="30" width="40" /></a>
+<a href="https://medium.com/@nicholasburgess13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nicholasburgess13" height="30" width="40" /></a>
 <a href="https://discord.gg/5627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5627" height="30" width="40" /></a>
 </p>
 
